@@ -1,0 +1,15 @@
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\bin\Debug\net6.0\41.exe
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\bin\Debug\net6.0\41.deps.json
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\bin\Debug\net6.0\41.runtimeconfig.json
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\bin\Debug\net6.0\41.dll
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\bin\Debug\net6.0\41.pdb
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.csproj.AssemblyReference.cache
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.AssemblyInfoInputs.cache
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.AssemblyInfo.cs
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.csproj.CoreCompileInputs.cache
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.dll
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\refint\41.dll
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.pdb
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\41.genruntimeconfig.cache
+C:\Users\l0stt\OneDrive\Рабочий стол\c#hw6\41\obj\Debug\net6.0\ref\41.dll
